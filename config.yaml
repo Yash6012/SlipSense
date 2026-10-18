@@ -1,0 +1,22 @@
+# SlipSense Configuration
+# ─────────────────────────────────────────────────────────────
+# Change model_name here to swap the vision model.
+# The model must already be available in your local Ollama install.
+# Run: ollama pull <model_name>  to download it.
+
+ollama_url: "http://localhost:11434"
+model_name: "qwen2.5vl:3b"
+
+# Image & PDF preparation
+image:
+  max_side: 1000
+  jpeg_quality: 85
+  pdf_dpi: 110
+
+pdf_all_pages: false  # true = process every page; false = page 1 only
+
+# Ollama inference
+temperature: 0        # Keep at 0 for deterministic extraction
+
+# Output
+output_folder: "./output"  # Default output folder (can be overridden in the UI)

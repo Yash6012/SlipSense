@@ -1,0 +1,21 @@
+# SlipSense - Expense Categories
+# ─────────────────────────────────────────────────────────────
+# Add or remove categories to match your chart of accounts.
+# The optional description helps the AI choose the right category.
+
+categories:
+  Software: "SaaS tools, subscriptions, apps, cloud services"
+  Hardware: "Computers, peripherals, cables, electronic equipment"
+  Office Supplies: "Stationery, printer paper, ink, physical office items"
+  Travel: "Flights, trains, buses, taxis, Uber/Ola, fuel"
+  Accommodation: "Hotels, Airbnb, guest houses"
+  Meals & Entertainment: "Restaurants, cafes, client meals, team lunches"
+  Marketing: "Ads, design services, print collateral, PR"
+  Professional Services: "Legal, accounting, consulting fees"
+  Utilities: "Electricity, internet, phone/mobile recharge, water"
+  Rent: "Office rent, coworking space"
+  Bank & Finance: "Bank charges, wire fees, payment gateway fees"
+  Insurance: "Business, health, equipment insurance premiums"
+  Training & Education: "Courses, books, conferences, certifications"
+  Subscriptions: "Recurring memberships not covered by Software"
+  Other: "Anything that does not fit the above categories"
