@@ -1,0 +1,21 @@
+filename,vendor,date,subtotal,tax,total,currency,category
+receipt_01_amazon.jpg,Amazon India,2024-09-12,1101.69,197.31,1299.0,INR,Software
+receipt_02_swiggy.jpg,Swiggy,2024-10-01,457.63,82.37,540.0,INR,Meals & Entertainment
+receipt_03_invoice_consulting.jpg,TechConsult Pvt Ltd,2024-08-15,30000.0,5400.0,35400.0,INR,Professional Services
+receipt_04_aws.jpg,Amazon Web Services,2024-09-01,6630.05,1193.4,7823.45,USD,Software
+receipt_05_uber.jpg,Uber India,2024-10-05,241.53,43.47,285.0,INR,Travel
+receipt_06_faded.jpg,Cafe Coffee Day,2024-07-22,406.78,73.22,480.0,INR,Meals & Entertainment
+receipt_07_skewed.jpg,Crossword Bookstores,2024-06-10,760.17,136.83,897.0,INR,Training & Education
+receipt_08_subtotal_prominent.jpg,Reliance Digital,2024-09-28,46525.42,8374.58,54900.0,INR,Hardware
+receipt_09_bsnl.jpg,BSNL,2024-08-05,999.0,0.0,999.0,INR,Utilities
+receipt_10_hotel.jpg,Lemon Tree Hotels,2024-07-14,7500.0,1350.0,8850.0,INR,Accommodation
+receipt_11_github.jpg,GitHub Inc,2024-09-15,2000.0,360.0,2360.0,USD,Software
+receipt_12_stationery.jpg,Staples India,2024-10-02,1050.85,189.15,1240.0,INR,Office Supplies
+receipt_13_insurance.jpg,HDFC Ergo,2024-04-01,18500.0,0.0,18500.0,INR,Insurance
+receipt_14_zoom.jpg,Zoom Video Communications,2024-09-10,10000.0,1800.0,11800.0,USD,Software
+receipt_15_marketing.jpg,Meta Platforms India,2024-08-31,25000.0,4500.0,29500.0,INR,Marketing
+receipt_16_training.jpg,Udemy Inc,2024-07-04,549.15,99.85,649.0,INR,Training & Education
+receipt_17_gst_receipt.jpg,Wipro Lighting,2024-09-20,4000.0,720.0,4720.0,INR,Hardware
+receipt_18_rent.jpg,IndiQube Spaces,2024-10-01,27542.37,4957.63,32500.0,INR,Rent
+receipt_19_upi_payment.jpg,BigBasket,2024-10-10,1808.47,325.53,2134.0,INR,Meals & Entertainment
+receipt_20_bank_charge.jpg,ICICI Bank,2024-09-30,826.0,0.0,826.0,INR,Bank & Finance
